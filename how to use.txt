@@ -1,0 +1,6 @@
+Hi Cyber slayers Members. 
+Tools using commands
+1)termux-setup-storage
+2)apt install python
+3)python api.py
+4) The api.txt file save on your Internal Storage 
